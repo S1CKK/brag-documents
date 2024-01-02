@@ -11,4 +11,5 @@ Inspired by :
 
 Brag ในแต่ละปี (ปีล่าสุดอยู่บนสุด)
 
+[2024](https://github.com/S1CKK/brag-documents/blob/main/2024.md)
 [2023](https://github.com/S1CKK/brag-documents/blob/main/2023.md)
