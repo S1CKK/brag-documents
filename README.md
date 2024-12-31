@@ -13,4 +13,4 @@ Brag ในแต่ละปี (ปีล่าสุดอยู่บนส�
 
 - [2024](https://github.com/S1CKK/brag-documents/blob/main/2024.md)
 - [2023](https://github.com/S1CKK/brag-documents/blob/main/2023.md)
-- [2025]()
+- [2025](https://github.com/S1CKK/brag-documents/blob/main/2025.md)
